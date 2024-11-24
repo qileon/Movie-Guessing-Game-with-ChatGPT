@@ -2,7 +2,9 @@
 Welcome to the Movie Guessing Game! This is an interactive game where players try to guess a movie title with the help of AI-generated hints, while also earning points for correct guesses and identifying the main star.
 
 Features
+
 ChatGPT-Powered Hints: Get creative hints about a movie without revealing the answer.
+
 Point System: Earn points for:
 Correct letter guesses (+3 points)
 Correct movie title guess (+10 points)
