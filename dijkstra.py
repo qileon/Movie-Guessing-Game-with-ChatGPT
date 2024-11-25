@@ -64,7 +64,7 @@ def dijkstra_guess_game(movie_name, main_star, info):
     print("3. Each correct letter: +3 points")
     print("4. Correct movie name: +10 points")
     print("5. Identifying main star: +5 points")
-    print("6. Wrong guess: -1 point")
+    print("6. Wrong guess: -2 points")
 
     hint = get_chatgpt_hint(movie_name)
     print(f"\n🎯 Hint: {hint}\n")
