@@ -122,7 +122,7 @@ def dijkstra_guess_game(movie_name, main_star, info):
             print("📚 Nice! That detail is related to the movie! (+3 points)")
         elif guess in movie_name.lower():
             score += 2
-            print("✓ Correct direction! (+2 points)")
+            print("✅ Correct direction! (+2 points)")
         else:
             incorrect_guesses.append(guess)
             score -= 2
