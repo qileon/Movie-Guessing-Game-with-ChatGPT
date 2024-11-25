@@ -10,6 +10,7 @@ Welcome to the **Movie Guessing Game**! This is an interactive game where player
   - Correct movie title guess (+10 points)
   - Identifying the main star (+5 points)
   - Movie-related information (+3 points)
+  - Wrong Guesses (-2 points)
 - **Interactive Gameplay**: Guess letters or try the full movie name, and see your progress as you go.
 - **Dynamic Pathfinding**: The game uses the Dijkstra algorithm to simulate a dynamic path with hints and correct guesses.
 
